@@ -1,0 +1,214 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Predicates can only include a finite verb.",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Subjects can be noun equivalents.",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "My family loves mountainous holiday destinations. In the above sentence the simple subject is:",
+        "options": [
+            "My",
+            "My Family",
+            "Family",
+            "Destinations"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Pat Cummins, in the Australian Cricket team remains the -ranked bowler in Test cricket. In the above sentence the simple subject is:",
+        "options": [
+            "Pat",
+            "Pat Cummins",
+            "Australian Cricket team",
+            "In the Australian Cricket team"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Only Coordinating conjunctions can help in the formation of Compound subjects.",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "A pre-modifier includes:",
+        "options": [
+            "Regular Adjectives",
+            "Determiners",
+            "Articles",
+            "Both A and B"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Complements are a part of:",
+        "options": [
+            "Compound predicate",
+            "Predicates",
+            "Complete Predicate",
+            "Both A and B"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "They are playing near the out-house. In the above sentence the verb phrase is:",
+        "options": [
+            "Are",
+            "Playing",
+            "Are playing",
+            "Are playing near the out-house"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "They came here but left early. The predicate in the sentence is:",
+        "options": [
+            "Came here",
+            "Left early",
+            "Both A and B",
+            "Came here but left early"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "I did not sleep well last night. The complete predicate in the above sentence includes:",
+        "options": [
+            "The verb phrase ‘did not sleep’",
+            "A phrase which answers the ‘when?’",
+            "The object ‘well’",
+            "Both A and B"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "What will you term the components of the list below togetherly? Articles(A, An, The), Possessive, Adjectives(my, your, her, his…), Demonstrative Adjectives(this, that…), Quantifiers(Any, Some, Many, All…) and Numbers",
+        "options": [
+            "Modifiers",
+            "Mitigators and Intensifiers",
+            "Determiners",
+            "Both A and B"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Simple predicates exclude:",
+        "options": [
+            "Modifiers",
+            "Objects",
+            "Complements",
+            "All of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Mars rotates on its axis once every 24.6 hours. In the sentence above select the object from the complete predicate.",
+        "options": [
+            "Axis",
+            "On its axis",
+            "Every 24.6 hours",
+            "None of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "I went home. This sentence contains:",
+        "options": [
+            "A simple subject",
+            "A complete predicate",
+            "No complete subject",
+            "All of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Sit down. The subject in this sentence is:",
+        "options": [
+            "You",
+            "Not mentioned but understood",
+            "Passive",
+            "Both A and B"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "A prepositional phrase can be a part of:",
+        "options": [
+            "Equivalents",
+            "Post-modifier",
+            "Both A and B",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Jupiter rotates once every 10 hours, Saturn spins once every 11 hours, and Neptune completes a rotation in 16 hours. The above sentence has a:",
+        "options": [
+            "Simple subject",
+            "Compound subject",
+            "Complete subject",
+            "Both A and C"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Pre-modifier +......................... +..................is a way of forming complete subjects.",
+        "options": [
+            "subject , post-modifier",
+            "post-modifier , subject",
+            "Subject, phrases",
+            "Noun equivalents, phrases"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Pluto is so distant from the centre of our solar system that our Sun would look like a very bright star in its sky! What is the predicate in the above sentence?",
+        "options": [
+            "Is so distant from the centre of the solar system that",
+            "Would look like a very bright star in its sky",
+            "Both A and B",
+            "There is a single predicate"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "In a sentence, a subject might not be committing any action.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    }
+]

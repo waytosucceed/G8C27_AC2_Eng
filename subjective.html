@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class Activity 2</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+
+
+  <style>
+        
+
+.correct{
+    background-color: rgb(167, 225, 243);
+    border-radius: 50%;
+    width:100px;
+    height: 50px;
+   font-weight: bold;
+   
+}
+
+
+  </style>
+
+
+
+</head>
+
+
+<body>
+  <audio id="cheers" >
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio>
+  <div class="header" style="width:100%; box-shadow:5px 5px 10px rgb(0, 0, 0); padding-bottom:10px;">
+    <img src="Logo.png" width="5%" style="float:left; margin-top:25px;" class="img-responsive">
+    <span> <img src="header.png" width="30%" height="100px" class="img-responsive"></span>
+</div>
+<br>
+<br>
+  <center>
+    
+    <h1 id="heading" style="font-family: Impact">Lets Revise With The Teacher</h1>
+    <div class="maindiv container" style="padding-top: 50px;">
+  
+  
+     <p style="font-size: 20px;">Q1. Comment on the subject and predicate of the following sentence:
+      <br><i>Some planets rotate faster than Earth and some rotate slower.</i>
+  
+      <br><br>
+  
+      <label id="label1"></label> 
+         <button onclick="func1()" id="btn1" class="correct">Check</button> <br><br>
+  
+       Q2.   What are the ways of forming a complete subject?
+       <br><br>
+  
+  
+       <label id="label2"></label>
+      <button onclick="func2()" id="btn2" class="correct">Check</button>
+       <br> <br>
+  
+  
+       Q3.  How many types of Subjects and predicates are there?
+       <br><br>
+  
+  
+       <label id="label3"></label>
+      <button onclick="func3()" id="btn3" class="correct">Check</button>
+       <br> <br>
+  
+       Q4.  I have been waiting since 11 am but he hasn’t reached home yet. 
+       <br>Mention the following in the above sentence:
+       <br>Subject and its type 
+       <br>Predicate and its type
+       
+       <br><br>
+  
+  
+       <label id="label4"></label>
+      <button onclick="func4()" id="btn4" class="correct">Check</button>
+       <br> <br>
+  
+       Q5.  What is a post-modifier? 
+       
+       <br><br>
+  
+  
+       <label id="label5"></label>
+      <button onclick="func5()" id="btn5" class="correct">Check</button>
+       <br> <br>
+    </p> 
+  </div>
+    <script>
+      
+             function func1(){
+              document.getElementById('label1').innerHTML="The sentence has a compound subject. The first subject is ‘some planets’ that rotate faster than the earth and the second subject is ‘Some’ referring to those planets that rotate slower than the Earth.<br>Since the sentence has two subjects doing two different actions. The sentence will automatically have two different predicates (Rotate faster than the Earth, Some rotate slower). Thus, the sentence has a compound p-redicate too.) "
+              document.getElementById('btn1').style.display="none"
+             }
+  
+             function func2(){
+              document.getElementById('label2').innerHTML="<ol style='text-align:left'><li>Pre-modifier + Simple Subject</li><li>Simple Subject + Post-Modifier </li><li>Pre-modifier + Simple Subject + Post-Modifier</li></ol>"
+              document.getElementById('btn2').style.display="none"
+             }
+  
+             function func3(){
+              document.getElementById('label3').innerHTML="Subjects are of three types: Simple, Complete and Compound. Predicates are of three types: Simple, Complete and Compound.  "
+              document.getElementById('btn3').style.display="none"
+             }
+  
+             function func4(){
+              document.getElementById('label4').innerHTML="I and He : Compound Subject <br>The sentence has compound predicates: <ol style='text-align:left'><li>‘have been waiting since 11 am’</li><li>‘hasn’t reached home yet.’</li></ol>"
+              document.getElementById('btn4').style.display="none"
+             }
+  
+             function func5(){
+              document.getElementById('label5').innerHTML="A post-modifier is a word or a group of words that sits after a noun or  noun equivalent and and modifies it."
+              document.getElementById('btn5').style.display="none"
+             }
+  
+    </script>
+</center>
+</body>
+</html>
